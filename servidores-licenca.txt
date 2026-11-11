@@ -1,0 +1,4 @@
+# Servidores de licença do PDV Lagos, um endereço https por linha, na ordem de tentativa.
+# O PDV lê este arquivo a cada 6 horas. Para trocar de domínio, ponha o novo aqui.
+# As respostas só valem com a assinatura do servidor: um endereço errado não libera nem trava.
+https://licencas.adm-lagos-sistemas.online
